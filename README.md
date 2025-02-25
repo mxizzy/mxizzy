@@ -9,6 +9,7 @@ A project to continue improving the AIIoT LED Blackboard from 3Beam
 In the ideation phase
 ## Learning
 Currently, I'm learning more about developing for Linux and creating hardware projects, mainly using C and C++.
+#### Profile picture by Hitsuji Goods, @hitsujigoods.bsky.social
 <!--
 **mxizzy/mxizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
