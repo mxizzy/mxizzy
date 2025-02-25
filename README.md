@@ -1,5 +1,14 @@
-## Hi there 👋
+## Current Active Projects
+### HomeLedControl
+A project to control addressible LED strips using radio communication
 
+Researching hardware, UX and Qt6
+### 3Beam AIIoT LED Blackboard
+A project to continue improving the AIIoT LED Blackboard from 3Beam
+
+In the ideation phase
+## Learning
+Currently, I'm learning more about developing for Linux and creating hardware projects, mainly using C and C++.
 <!--
 **mxizzy/mxizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
